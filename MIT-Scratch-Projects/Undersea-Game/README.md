@@ -1,4 +1,4 @@
-# GFX-Undersea-Game-Assets
+# Undersea Game Sprites
 Free sprite assets for an underwater game
 
 These are undersea assets intended for use with the MIT Scratch
