@@ -1,3 +1,6 @@
+# Retro Lander for MIT Scratch
+A complete, playable game project.
+
 [Summary]
   Retro Lander is a game where you control the maneuvering thrusters of a lunar lander module and attempt to set it down safely in the designated landing area. The landing area is a red, flat zone generated somewhere on the terrain.
 
