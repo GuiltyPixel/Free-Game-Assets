@@ -1,5 +1,5 @@
 # Retro Lander for MIT Scratch
-A complete, playable game project.
+A complete, playable game project. Created for Harvard CS50x Class of 2015.
 
 [Summary]
   Retro Lander is a game where you control the maneuvering thrusters of a lunar lander module and attempt to set it down safely in the designated landing area. The landing area is a red, flat zone generated somewhere on the terrain.
@@ -21,6 +21,16 @@ A complete, playable game project.
   Source URL: http://sampleswap.org/mp3/song.php?id=982
   Creative Commons 'Attribution Share Alike' licensed. See: http://creativecommons.org/licenses/by-sa/3.0/
 
-  Sprites, sound effects, and logic are copyright Guilty Pixel Interactive www.guiltypixel.com and licensed under the Creative Commons Attribution 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0
+  Sprites, sound effects, and logic are [CC0](https://creativecommons.org/publicdomain/zero/1.0/). Software under MIT License. Use freely.
 
-Created for Harvard CS50x Class of 2015 by Axonic (James Dice) of Guilty Pixel Interactive.
+  The MIT License
+
+Copyright <2015> <James Dice>
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+
